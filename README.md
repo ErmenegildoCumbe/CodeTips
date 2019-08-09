@@ -10,3 +10,6 @@ https://serversforhackers.com/c/redirect-http-to-https-nginx
 
 ### Laravel: Start testing
 https://jasonmccreary.me/articles/start-testing-laravel/#how-to-start-testing-in-laravel
+
+
+### The diference betwen junior, mid-level && Senior Developer
